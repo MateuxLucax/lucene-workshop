@@ -1,0 +1,15 @@
+{
+  "name": "poorcene",
+  "version": "1.0.0",
+  "description": "Lucene poor implementation in JavaScript :(",
+  "main": "src/main.mjs",
+  "scripts": {
+    "start": "node src/main.mjs"
+  },
+  "keywords": [
+    "Lucene",
+    "JavaScript"
+  ],
+  "author": "Mateus Brandt",
+  "license": "GPL-3.0-or-later"
+}
